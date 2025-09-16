@@ -1,0 +1,11 @@
+<!DOCTYPE html>>
+<html lang="en">
+<body>
+<h2>Image with description</h2>
+<img src="https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/z/u/Zugpsitze_mountain.jpg?crop=0%2C214%2C3008%2C1579&wid=1200&hei=630&scl=2.506666666666667"width='200px'height='100px'alt='nature'>
+<p>Nature encompasses the entire physical world, from vast ecosystems and flowing rivers to microscopic organisms and cosmic phenomena, providing life-sustaining resources like food, water, and air, while its inherent beauty offers solace and balance to human well-being</p>
+<img src="https://images.theconversation.com/files/45159/original/rptgtpxd-1396254731.jpg?ixlib=rb-4.1.0&q=45&auto=format&w=754&fit=clip"width='200px'height='100px'alt='book'>
+<p>Books serve as invaluable friends and companions, providing a rich source of knowledge, wisdom, and entertainment that enriches the mind and soul. They open doors to new worlds, foster empathy, broaden perspectives, and improve vocabulary and critical thinking skills. Whether offering comfort, inspiration, or a means of escape, books are timeless treasures that guide personal growth and offer a deeper understanding of life.</p>
+<img src="https://cdn.britannica.com/77/170477-050-1C747EE3/Laptop-computer.jpg"width='200px'height='100px'alt='computer'>
+<p>A computer is a versatile electronic device that stores and processes data at high speeds, performing tasks from complex calculations and data management to communication and entertainment. It consists of hardware like the CPU, monitor, keyboard, and mouse, and runs on software to execute programs, such as word processors, web browsers, and games.</p>
+</body>
