@@ -1,0 +1,19 @@
+<!DOCTYPE html>>
+<html lang="en">
+<body>
+    <h1>My Favorite Website</h1>
+    <ul>
+        <li>
+            <a href ='https://en.wikipedia.org/wiki/Main_Page'target='_blank'>wikipedia</a>
+        </li>
+        <li>
+            <a href ='https://www.canva.com/en/'target='_blank'>canva</a>
+        </li> 
+        <li>
+            <a href ='https://www.flipkart.com/'target='_blank'>flipkart</a>
+        </li>
+        <li>
+            <a href ='https://www.krmangalam.edu.in/?utm_source=organic&utm_medium=www.google.com&utm_campaign=-/'target='_blank'>KRMU</a>
+        </li>
+    </ul>
+</body>
